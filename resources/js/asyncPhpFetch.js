@@ -1,4 +1,4 @@
-const url = '/sync';
+const url = '/asyncsample';
 
 
 
